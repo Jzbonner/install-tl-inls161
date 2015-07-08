@@ -16,6 +16,7 @@ TEXMFVAR ~/.texlive2015/texmf-var
 binary_x86_64-linux 1
 collection-basic 1
 collection-latex 1
+# cm-super 1
 in_place 0
 option_adjustrepo 1
 option_autobackup 1
@@ -24,7 +25,7 @@ option_desktop_integration 1
 option_doc 1
 option_file_assocs 1
 option_fmt 1
-option_letter 1
+# option_letter 1
 option_menu_integration 1
 option_path 1
 option_post_code 1
